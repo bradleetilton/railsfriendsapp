@@ -6,7 +6,8 @@ Friends App is a web application built using Ruby on Rails.<br>
 
 Instructions
 ---
-To clone this repo: `git clone https://github.com/bradleetilton/railsfriendsapp.git`<br>
+To clone this repo: <br>
+`git clone https://github.com/bradleetilton/railsfriendsapp.git`<br>
 
 
 Referenced Material
